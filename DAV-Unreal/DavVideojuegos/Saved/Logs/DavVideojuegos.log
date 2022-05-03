@@ -2266,3 +2266,73 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.02-13.36.29:029][911]AssetCheck: New page: Asset Save: multiple assets
 [2022.05.02-13.36.29:029][911]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2022.05.02-13.36.29:029][911]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.05.02-13.55.48:794][823]LogSlate: Window 'Message Log' being destroyed
+[2022.05.02-13.55.55:363][585]LogEditorViewport: Clicking on Actor (LMB): BP_EndPoint_C (BP_EndPoint)
+[2022.05.02-13.56.32:184][804]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.05.02-13.56.32:240][804]LogSavePackage: Moving '../../../../../../Git/DAVJ/DAV-Unreal/DavVideojuegos/Saved/ThirdPersonExampleMap4679DC1847A28EB4B25377AC4EBE9ECD.tmp' to '../../../../../../Git/DAVJ/DAV-Unreal/DavVideojuegos/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.05.02-13.56.32:364][804]LogSavePackage: Moving '../../../../../../Git/DAVJ/DAV-Unreal/DavVideojuegos/Saved/ThirdPersonExampleMap_BuiltDataB8290EAA43729118FEE782ADACE798BD.tmp' to '../../../../../../Git/DAVJ/DAV-Unreal/DavVideojuegos/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.05.02-13.56.32:382][804]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.02-13.56.32:382][804]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.05.02-13.56.32:382][804]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.05.02-13.56.33:103][879]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.02-13.56.33:111][879]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.02-13.56.33:112][879]PIE: New page: PIE session: ThirdPersonExampleMap (2 may. 2022 07:56:33)
+[2022.05.02-13.56.33:143][879]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.05.02-13.56.33:156][879]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013713s)
+[2022.05.02-13.56.33:157][879]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.05.02-13.56.33:158][879]LogPlayLevel: PIE: World Init took: (0.001553s)
+[2022.05.02-13.56.33:158][879]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015546s)
+[2022.05.02-13.56.33:190][879]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2022.05.02-13.56.33:193][879]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.05.02-13.56.33:193][879]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.02-13.56.33:193][879]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.02-13.56.33:193][879]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.02-13.56.33:193][879]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.02-13.56.33:193][879]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.02-13.56.33:193][879]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.02-13.56.33:193][879]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.02-13.56.33:193][879]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.02-13.56.33:193][879]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.02-13.56.33:194][879]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.02-13.56.33:194][879]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.02-13.56.33:194][879]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.02-13.56.33:198][879]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.02-13.56.33:198][879]LogAudioMixer: Display: 1: FrontRight
+[2022.05.02-13.56.33:208][879]LogAudioMixer: Display: Using Audio Device Auriculares (High Definition Audio Device)
+[2022.05.02-13.56.33:209][879]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.02-13.56.33:209][879]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.02-13.56.33:209][879]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.02-13.56.33:210][879]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.02-13.56.33:210][879]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.02-13.56.33:210][879]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.02-13.56.33:212][879]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.02-13.56.33:212][879]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.02-13.56.33:212][879]LogInit: FAudioDevice initialized.
+[2022.05.02-13.56.33:212][879]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonExampleMap'.
+[2022.05.02-13.56.33:225][879]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.05.02-13.56.33:228][879]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.05.02-10.56.33
+[2022.05.02-13.56.33:228][879]LogWorld: Bringing up level for play took: 0.002423
+[2022.05.02-13.56.33:228][879]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2022.05.02-13.56.33:231][879]PIE: Server logged in
+[2022.05.02-13.56.33:232][879]PIE: Play in editor total start time 0,123 seconds.
+[2022.05.02-13.57.19:976][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-13.57.19:976][464]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.05.02-13.57.19:976][464]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.02-13.57.19:976][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-13.57.19:987][464]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.02-13.57.19:998][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.02-13.57.20:024][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.02-13.57.20:025][464]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.02-13.57.20:026][464]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.02-13.57.20:033][464]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.05.02-13.57.20:070][465]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.05.02-13.58.09:341][148]BlueprintLog: New page: Compile BP_EndPoint
+[2022.05.02-13.58.09:414][148]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2022.05.02-13.58.09:947][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_EndPoint" FILE="../../../../../../Git/DAVJ/DAV-Unreal/DavVideojuegos/Content/BP/BP_EndPoint.uasset" SILENT=true
+[2022.05.02-13.58.09:963][198]LogSavePackage: Moving '../../../../../../Git/DAVJ/DAV-Unreal/DavVideojuegos/Saved/BP_EndPoint5DFC06754A4944565230BCBB4AD14B2A.tmp' to '../../../../../../Git/DAVJ/DAV-Unreal/DavVideojuegos/Content/BP/BP_EndPoint.uasset'
+[2022.05.02-13.58.09:978][198]AssetCheck: New page: Asset Save: BP_EndPoint
+[2022.05.02-13.58.09:978][198]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_EndPoint.BP_EndPoint
+[2022.05.02-14.07.19:271][264]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2022.05.02-14.07.19:321][264]LogSavePackage: Moving '../../../../../../Git/DAVJ/DAV-Unreal/DavVideojuegos/Saved/ThirdPersonExampleMap_Auto5746534EC4B0F7E6BA0EE069231EA67A6.tmp' to '../../../../../../Git/DAVJ/DAV-Unreal/DavVideojuegos/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2022.05.02-14.07.19:323][264]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.082
+[2022.05.02-14.07.19:328][264]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.082
