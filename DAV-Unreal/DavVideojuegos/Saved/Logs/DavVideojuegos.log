@@ -1095,3 +1095,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.09-21.21.07:925][654]LogSavePackage: Moving '../../../../../../Git/DAVJ/DAV-Unreal/DavVideojuegos/Saved/BP_OutofBoundsB915A4AA488894C5CB33F290498EF335.tmp' to '../../../../../../Git/DAVJ/DAV-Unreal/DavVideojuegos/Content/BP/BP_OutofBounds.uasset'
 [2022.05.09-21.21.07:937][654]AssetCheck: New page: Asset Save: BP_OutofBounds
 [2022.05.09-21.21.07:937][654]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_OutofBounds.BP_OutofBounds
+[2022.05.09-21.29.17:515][571]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2022.05.09-21.29.17:636][571]LogSavePackage: Moving '../../../../../../Git/DAVJ/DAV-Unreal/DavVideojuegos/Saved/ThirdPersonExampleMap_Auto2B9F19C964A216D796D677D9B1D54BA44.tmp' to '../../../../../../Git/DAVJ/DAV-Unreal/DavVideojuegos/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2022.05.09-21.29.17:638][571]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.158
+[2022.05.09-21.29.17:638][571]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.158
+[2022.05.09-21.31.02:877][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.05.09-21.31.07:577][884]LogSlate: Window 'Save Content' being destroyed
+[2022.05.09-21.31.09:546][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.05.09-21.31.09:660][ 80]LogSavePackage: Moving '../../../../../../Git/DAVJ/DAV-Unreal/DavVideojuegos/Saved/ThirdPersonExampleMap7F5E69E94628352FF68F94AA80085CDA.tmp' to '../../../../../../Git/DAVJ/DAV-Unreal/DavVideojuegos/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.05.09-21.31.10:070][ 80]LogSavePackage: Moving '../../../../../../Git/DAVJ/DAV-Unreal/DavVideojuegos/Saved/ThirdPersonExampleMap_BuiltData64EDA92A44526C8ABDBA7EB188DAEF34.tmp' to '../../../../../../Git/DAVJ/DAV-Unreal/DavVideojuegos/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.05.09-21.31.10:096][ 80]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.09-21.31.10:096][ 80]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.05.09-21.31.10:096][ 80]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
